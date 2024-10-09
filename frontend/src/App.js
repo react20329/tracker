@@ -1,7 +1,11 @@
-import "./App.css";
-
 function App() {
-  return <div className="App"></div>;
+  return (
+    <div>
+      <header>
+        <h1>React Website</h1>
+      </header>
+    </div>
+  );
 }
 
 export default App;
